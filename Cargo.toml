@@ -4,5 +4,6 @@ authors = ["sty00a4"]
 description = "a simple library for locating things in a file when lexing/parsing"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
 
 [dependencies]
